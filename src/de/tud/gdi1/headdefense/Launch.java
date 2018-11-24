@@ -5,9 +5,9 @@ import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.SlickException;
 import org.newdawn.slick.state.StateBasedGame;
 
-import de.tud.gdi1.headdefense.ui.GameplayState;
-import de.tud.gdi1.headdefense.ui.Launch;
-import de.tud.gdi1.headdefense.ui.MainMenuState;
+import de.tud.gdi1.headdefense.GameplayState;
+import de.tud.gdi1.headdefense.Launch;
+import de.tud.gdi1.headdefense.MainMenuState;
 import eea.engine.entity.StateBasedEntityManager;
 
 /**
